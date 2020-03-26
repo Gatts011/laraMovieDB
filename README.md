@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About MultiAuth
+## About laraMovieDB
 
-Laravel boiler for admin/user login and redirect (multi-auth)
+Laravel boiler for TMDB API and SQL with SweetAlert
 
 ## Install
 
