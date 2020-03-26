@@ -21,8 +21,6 @@ Run 'php artisan migrate'
 
 then
 
-Register 2 users, in database set admin user int to 1
 
-then
 
 thank me later
